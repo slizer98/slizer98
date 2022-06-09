@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slizer98&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slizer98&bg_color=ffffff&text_color=333333">
 </details>
