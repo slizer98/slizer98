@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hi, I'm Erick Villafuerte 👋
 
@@ -23,21 +22,28 @@ Here are some ideas to get you started:
 <div display="flex">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js%20-%015901.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/expressjs%20-%5724cd.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql%20-%23F05033.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <br/>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=slizer98&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slizer98&bg_color=ffffff&text_color=333333">
-</details>
+ <summary>:zap: Github Stats</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=slizer98&bg_color=000000&text_color=ffffff">
+
+ <summary>:zap: Languages Used</summary>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slizer98&bg_color=000000&text_color=ffffff">
+ 
+ <summary>:eyes: Visitor Count</summary>
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/slizer98/count.svg)
+
