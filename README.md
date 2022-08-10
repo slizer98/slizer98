@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://slizer98.github.io/portafolio/)
 
 Here are some ideas to get you started:
-- :school: I'm currently studing in ... University of Guanajuato
+- :school: I'm currently studing in ... Universidad de Guanajuato
 - 🔭 I’m currently working on ... Not working
 - 🌱 I’m currently learning ... Nodejs, Expressjs, Vuejs and perfecting javaScript 
 - 👯 I’m looking to collaborate on ... Any of project
