@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 - :school: I'm currently studing in ... Universidad de Guanajuato
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Nodejs, Expressjs, Vuejs and perfecting javaScript 
+- 🔭 I’m currently working on ... In search of incredible
+- 🌱 I’m currently learning ... Nodejs, Expressjs, Reactjs and perfecting javaScript 
 - 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs and advanced topics in javascript
+- 🤔 I’m looking for help with ... Reactjs and advanced topics in javascript
 - 💬 Ask me about ... What ever.... :laughing:
 - 😄 Pronouns: ... Slizer 😎
 - ⚡ Fun fact: ... Play PUBG when get bored, even if you are a bot
