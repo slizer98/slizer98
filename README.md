@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Play PUBG when get bored, even if you are a bot
 <br/>
 
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slizer98&theme=github_dark" />
+</p>
+
 ### Languages and Tools:
 <div display="flex">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
@@ -38,6 +42,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
  <summary>:zap: Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=slizer98&bg_color=000000&text_color=ffffff">
