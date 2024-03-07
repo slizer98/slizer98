@@ -1,46 +1,64 @@
 
 # Hi, I'm Erick Villafuerte 👋
 
+<div align="center">
+  <h1>Erick Villafuerte</h1>
+  <img src="https://github.com/slizer98/slizer98/assets/86857956/96f45671-e97d-4f35-8bf3-a0887bc2e1be" alt="Erick Villafuerte" width="150">
+  <h2>Ingeniero en Sistemas Computacionales</h1>
+</div>
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ErickVillaDev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/erick-manuel-villafuerte-ramirez-87133b214/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/villafuerte.erick/?hl=es)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/erick.villafuerte.33)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://slizer98.github.io/portafolio/)
 
-Here are some ideas to get you started:
-- :school: I'm currently studing in ... Universidad de Guanajuato
-- 🔭 I’m currently working on ... In search of incredible
-- 🌱 I’m currently learning ... Nodejs, Expressjs, Reactjs and perfecting javaScript 
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Reactjs and advanced topics in javascript
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... Slizer 😎
-- ⚡ Fun fact: ... Play PUBG when get bored, even if you are a bot
-<br/>
+### Hey there! :wave: 
+I'm Erick Villafuerte, a passionate learner and developer from Mexico. Here's a bit about me:
+
+```javascript
+const profile = {
+  name: "Erick Villafuerte",
+  studied: "Universidad de Guanajuato",
+  workingOn: "In search of incredible",
+  learning: ["Node.js", "Express.js", "Vue.js", "JavaScript"],
+  lookingToCollaborateOn: "Any project",
+  seekingHelpWith: ["React.js", "Advanced JavaScript topics"],
+  askMeAbout: "Anything :laughing:",
+  pronouns: "Slizer 😎",
+  funFact: "I play PUBG when I get bored, even if you are a bot"
+};
+console.log('¡No dudes en contactarme! ¡Conéctemos!🚀 ')
+```
+### ¡No dudes en contactarme! ¡Conéctemos! :rocket:
+
 
 <h1 align="center">Github Metrics </h1><p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slizer98&theme=github_dark" />
 </p>
 
 ### Languages and Tools:
-<div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++%20-%23F05033.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%015901.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/expressjs%20-%5724cd.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql%20-%23F05033.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pug%20-%23F05033.svg?&style=for-the-badge&logo=pug&logoColor=white"/>
-</div>
-<br/>
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="48" title="Vue.Js"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="CSharp">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pinia-Dark.svg" width="48" title="Python">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">     
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="ExpressJS"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48" title="NestJs">   
+<p/>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
