@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>Erick Villafuerte</h1>
-  <img src="https://github.com/slizer98/slizer98/assets/86857956/96f45671-e97d-4f35-8bf3-a0887bc2e1be" alt="Erick Villafuerte" width="150">
+  <img src="https://github.com/slizer98/slizer98/assets/86857956/b0b3111a-f78d-48f8-90a8-d5322dd9e642" alt="Erick Villafuerte" width="150">
   <h2>Ingeniero en Sistemas Computacionales</h1>
 </div>
 
