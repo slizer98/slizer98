@@ -46,9 +46,10 @@ console.log('¡No dudes en contactarme! ¡Conéctemos!🚀 ')
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="CSharp">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" title="Django">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pinia-Dark.svg" width="48" title="Python">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pinia-Dark.svg" width="48" title="pinia">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
